@@ -6,7 +6,7 @@
 
 ## Tools that I use
 
-- **Languages :** Python(Pandas,Matplotlib,Seaborn), R Language, SQL
+- **Languages :** Python(Pandas, Matplotlib, Seaborn), R Language, SQL
 - **Data Vizualization :** Power  BI, Tableau
 - **Spreadsheets :** Microsoft Excel
 - **Databases :** MySQL
