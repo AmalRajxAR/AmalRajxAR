@@ -1,6 +1,6 @@
 ## Hi there, I'm AmalRaj 👋
 
-- I am a **BCA Graduate** and an aspiring **Data Analyst**. Having a specialized course in Data Analysis from <a href="https://www.cokonet.com/">CokoNet</a> Academy. 
+- I am a **BCA Graduate** and an aspiring **Data Analyst**. Having a specialized course in Data Analysis with <a href="https://www.cokonet.com/">CokoNet</a> Academy. 
 - I'm currently building my portfolio and looking for my first professional opportunity in the data world.
 - I like creating Dashboards and working with databases.
 
