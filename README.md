@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I'm AmalRaj 👋
 
+I am a **BCA Graduate** and an aspiring **Data Analyst**. Having a specialized course in Data Analysis from <a href="https://www.cokonet.com/">CokoNet</a> academy 
 <!--
 **AmalRajxAR/AmalRajxAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
