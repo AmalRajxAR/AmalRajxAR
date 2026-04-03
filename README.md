@@ -21,7 +21,7 @@ I'm currently busy cleaning, analyzing and visualizing different datasets. My pr
 ## A Bit More About me
 
 - Sometimes I do art in my free time.
-- Learning how to plsy a guitar.
+- Learning how to play a guitar.
 - The first project I ever made was an e-commerce website.
 <!--
 **AmalRajxAR/AmalRajxAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
